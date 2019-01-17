@@ -1,2 +1,2 @@
 # hello-world
-My first Repository
+Writing sample text for practicing the github working.
